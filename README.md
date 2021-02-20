@@ -3,6 +3,7 @@
 how run the programme  Django Rest Framework Rect
 
 npx create-react-app blogapi
+
 cd blogapi
 npm start
 npm install react-router-dom
