@@ -1,8 +1,9 @@
 # Web Application
 
-Django==1.9
-
 Requiremets for the project
+
+
+Django==1.9
 
 django-crispy-forms==1.6.0
 
