@@ -15,7 +15,11 @@ markdown2==2.3.1
 pillow==3.1.0
 
 
+
+
 how run the programme  Django Rest Framework Rect
+
+
 
 npx create-react-app blogapi
 
