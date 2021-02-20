@@ -1,3 +1,7 @@
+lab2
+
+FIGMA https://www.figma.com/file/2elS2KLUmuw39oH8PioJ8b/MY-FIRST-BLOG?node-id=0%3A1
+
 # Web Application
 
 Requiremets for the project
